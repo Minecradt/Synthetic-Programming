@@ -9,7 +9,7 @@
   "author": "Synthetic Programming",
   "license": "ISC",
   "dependencies": {
-    "serialport": "^9.0.7",
+    "serialport": "^9.2.8",
     "socket.io": "^2.0.4"
   }
 }
